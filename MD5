@@ -1,0 +1,12 @@
+85ba408a4ea0a6488d9086e06fefe678 *DESCRIPTION
+ec47d626925f81ccc1f5c4bcf4d93663 *NAMESPACE
+e8dca43e2484d46d46842933b500593b *R/main.R
+e4820495744f460173fb343455a08429 *README.md
+cf6794d8340a93d715504de6d0c2e55c *build/vignette.rds
+dd3a9215b820ce50ccb58e83c6b55a32 *inst/doc/convert_pdf_tables.R
+04a083e1ff175076a307bc8723b1855e *inst/doc/convert_pdf_tables.Rmd
+ae2c49261e316b5870a7a4fbd78518fb *inst/doc/convert_pdf_tables.html
+7c064f66557cb11592dd49c253b5ea94 *man/convert_pdf.Rd
+f16d7e3a222cda9fac7bdbe1d2ff30f8 *man/get_remaining.Rd
+04a083e1ff175076a307bc8723b1855e *vignettes/convert_pdf_tables.Rmd
+af0cc6a2b61b11ba8af7bc76a6b36f78 *vignettes/example.png
